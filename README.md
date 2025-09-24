@@ -69,10 +69,10 @@ Test R^2: 0.6098<br>
 
 ## Findings & Recommendations
 <p align="left">
-  <img src="images/coefficients_plot.png" width="600">
+  <img src="images/coefficients_plot.png" width="1800">
 </p>
 <p align="left">
-  <img src="images/permutations_plot.png" width="600">
+  <img src="images/permutations_plot.png" width="1000">
 </p>
 
 **Findings**
